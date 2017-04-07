@@ -1,7 +1,7 @@
 XXX chansons bourguignonnes
 ===========================
 
-This project is an attempt to provide a digital version of the book *XXX  
+This project is an attempt to provide a digital version of the book *XXX 
 chansons bourguignonnes du pays de Beaune précédées d'une étude historique* 
 from Maurice Emmanuel and published by Durand,
 
